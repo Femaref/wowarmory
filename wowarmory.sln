@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ircbot", "ircbot\ircbot.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatclient", "chatclient\chatclient.csproj", "{E673D367-07AB-4B7B-A2F3-58CFC4E6AABE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatConsole", "ConsoleApplication1\ChatConsole.csproj", "{DBC4CF1D-4F17-4FD0-9BF5-D9AD09ECB2EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +27,10 @@ Global
 		{E673D367-07AB-4B7B-A2F3-58CFC4E6AABE}.Debug|x86.Build.0 = Debug|x86
 		{E673D367-07AB-4B7B-A2F3-58CFC4E6AABE}.Release|x86.ActiveCfg = Release|x86
 		{E673D367-07AB-4B7B-A2F3-58CFC4E6AABE}.Release|x86.Build.0 = Release|x86
+		{DBC4CF1D-4F17-4FD0-9BF5-D9AD09ECB2EE}.Debug|x86.ActiveCfg = Debug|x86
+		{DBC4CF1D-4F17-4FD0-9BF5-D9AD09ECB2EE}.Debug|x86.Build.0 = Debug|x86
+		{DBC4CF1D-4F17-4FD0-9BF5-D9AD09ECB2EE}.Release|x86.ActiveCfg = Release|x86
+		{DBC4CF1D-4F17-4FD0-9BF5-D9AD09ECB2EE}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
